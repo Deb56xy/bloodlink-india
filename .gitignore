@@ -4,5 +4,7 @@ node_modules
 .env
 .vercel
 .DS_Store
-
-.vercel
+easy-deal/
+android/app/build/
+android/.gradle/
+android/local.properties

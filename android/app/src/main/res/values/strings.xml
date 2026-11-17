@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BloodLink India</string>
+    <string name="site_url">https://bloodlink-india.vercel.app</string>
+    <string name="network_error_title">Connection Lost</string>
+    <string name="network_error_msg">Please check your mobile data or Wi-Fi to access blood donor directory and emergency alerts.</string>
+    <string name="retry">Try Again</string>
+</resources>

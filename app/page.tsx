@@ -161,7 +161,7 @@ export default function Home() {
             <Link href="/request" style={{ color: "#d8deea" }}>Request Blood</Link>
             <Link href="/login" style={{ color: "#d8deea" }}>Sign In</Link>
           </div>
-          <p>© {new Date().getFullYear()} BloodLink India · Privacy · Terms · Contact</p>
+          <p>© {new Date().getFullYear()} BloodLink India · <Link href="/privacy" style={{ color: "#d8deea" }}>Privacy</Link> · <Link href="/terms" style={{ color: "#d8deea" }}>Terms</Link> · <a href="mailto:support@bloodlink-india.vercel.app" style={{ color: "#d8deea" }}>Contact</a></p>
         </div>
       </footer>
     </>

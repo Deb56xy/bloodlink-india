@@ -1,1 +1,31 @@
-{"name":"BloodLink India","short_name":"BloodLink","description":"Every Drop Connects a Life","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#d92332","icons":[]}
+{
+  "name": "BloodLink India",
+  "short_name": "BloodLink",
+  "description": "Every Drop Connects a Life. Direct Voluntary Blood Donor & Emergency Coordination Network across India.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d92332",
+  "orientation": "portrait-primary",
+  "categories": ["medical", "health", "social"],
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
